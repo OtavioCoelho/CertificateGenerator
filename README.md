@@ -38,7 +38,7 @@ cd output
 
 Make sure you have Go installed on your machine. If you don't have it yet, you can download and install it from the [official Go website.](https://golang.org/).
 
-## Contribuindo
+## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
