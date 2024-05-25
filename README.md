@@ -29,7 +29,7 @@ go run main.go
 
 4. Provide the requested data to generate the certificate.
 5. Access the `output` folder to check the generated certificate. This will initiate the generation of a self-signed PEM certificate and its conversion to the PFX format. After successful execution, the resulting certificate will be available in the project directory.
-6. 
+
 ```
 cd output
 ```
